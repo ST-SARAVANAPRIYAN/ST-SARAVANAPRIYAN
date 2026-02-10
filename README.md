@@ -4,107 +4,88 @@
 ============================== -->
 
 <div align="center">
-  <svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-labelledby="title desc">
-    <title id="title">SARAVANA PRIYAN S T — Banner</title>
-    <desc id="desc">Neon animated gradient banner</desc>
-
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#00F5A0">
-          <animate attributeName="stop-color" dur="6s"
-            values="#00F5A0;#00B4FF;#9D00FF;#FF007A;#00F5A0"
-            repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#FF007A">
-          <animate attributeName="stop-color" dur="6s"
-            values="#FF007A;#00F5A0;#00B4FF;#9D00FF;#FF007A"
-            repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="6.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <rect width="1200" height="160" fill="#020617"/>
-
-    <text x="50%" y="48%" text-anchor="middle"
-          font-family="Segoe UI, Roboto, Inter, Arial"
-          font-size="34" font-weight="800"
-          fill="url(#g1)"
-          style="filter:url(#glow);">
-      SARAVANA PRIYAN S T
-    </text>
-
-    <text x="50%" y="73%" text-anchor="middle"
-          font-family="Segoe UI, Roboto, Inter, Arial"
-          font-size="16" fill="#bcdfff" opacity="0.9">
-      AI &amp; Data Science Enthusiast | Tech Explorer
-    </text>
-
-    <g transform="translate(1000,40)">
-      <circle r="6" fill="#00F5A0" opacity="0.95">
-        <animate attributeName="cx" values="0;40;0" dur="4s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.9;0.45;0.9" dur="4s" repeatCount="indefinite"/>
-      </circle>
-      <circle r="4" fill="#FF007A" cx="-20" cy="40" opacity="0.9">
-        <animate attributeName="cy" values="40;10;40" dur="3.2s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00F5A0&background=00000000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Data+Science+Enthusiast;Tech+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <br/>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/saravana-priyan-s-t">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    &nbsp;
+    <a href="mailto:saravanapriyanst@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/ST-SARAVANAPRIYAN">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 📊 Live GitHub Stats
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ST-SARAVANAPRIYAN&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-SARAVANAPRIYAN&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ST-SARAVANAPRIYAN&theme=highcontrast" alt="GitHub streak" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack & Interactive Details
 
-| Project | Description |
-|--------|-------------|
-| [College Event Management System](https://github.com/ST-SARAVANAPRIYAN/COLLEGE-EVENT-MANAGEMENT-SYSTEM) | Event management portal (Java / Servlet / DB) |
-| [Insurance Assistant](https://github.com/ST-SARAVANAPRIYAN/insurance_assistant) | Insurance workflow assistant (Python / data tools) |
+<details>
+<summary><h3>💻 Languages & Frameworks (Click to Expand)</h3></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts,react,nodejs,nextjs,tailwindcss,bootstrap,mysql,postgres,mongodb,firebase,git,github,docker,linux,bash" />
+</div>
+</details>
+
+<details>
+<summary><h3>📚 Education & Certifications (Click to Expand)</h3></summary>
+<br>
+<ul>
+    <li><b>Full Stack Development</b> - Expected/Ongoing</li>
+    <li><b>Data Science & ML</b> - Enthusiast & Learner</li>
+    <li><b>Problem Solving</b> - LeetCode, HackerRank</li>
+</ul>
+</details>
+
+<details>
+<summary><h3>� GitHub Streak Stats (Click to Expand)</h3></summary>
+<br>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ST-SARAVANAPRIYAN&theme=highcontrast&hide_border=true" alt="GitHub streak" />
+</div>
+</details>
+
+---
+
+### 📊 GitHub Metrics
+
+<div align="center">
+  <!-- NOTE: This image will appear after the first run of the metrics action. -->
+  <img src="https://github.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/blob/master/github-metrics.svg" alt="Metrics" width="100%" />
+</div>
 
 ---
 
-## ✨ Auto-updating Sections
+### 🏆 Featured Projects
 
-> **Daily Tech Quote**  
-> <blockquote><em id="daily-quote">"Talk is cheap. Show me the code." — Linus Torvalds</em></blockquote>
-
-> **Last Commit** — <em id="last-commit">Updated by workflow</em>  
-> **Profile views** —  
-> <img src="https://visitor-badge.glitch.me/badge?page_id=ST-SARAVANAPRIYAN.ST-SARAVANAPRIYAN" alt="visitor badge" />
-
----
-
-## 🔁 Contribution Animation (placeholder)
-
-> **Note:** snake animation link was broken. Insert working animation or placeholder here.  
-> e.g., `<img src="https://your-valid-snake-svg-url-here" alt="contribution animation" width="600"/>`
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[College Event Management System](https://github.com/ST-SARAVANAPRIYAN/COLLEGE-EVENT-MANAGEMENT-SYSTEM)** | Comprehensive portal for managing college events. | `Java` `Servlet` `MySQL` |
+| **[Insurance Assistant](https://github.com/ST-SARAVANAPRIYAN/insurance_assistant)** | Automated assistant for insurance workflows. | `Python` `Data Analysis` |
+| **[Vehicle Classifier](https://github.com/ST-SARAVANAPRIYAN/Vehicle-Classifier)** | AI-powered vehicle classification system. | `YOLOv8` `Flask` `Python` |
 
 ---
 
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/saravana-priyan-s-t) • [Email](mailto:saravanapriyanst@gmail.com)
-
----
+<div align="center">
+  <p><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ST-SARAVANAPRIYAN.ST-SARAVANAPRIYAN" alt="visitor badge" />
+  <br/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5A0&height=100&section=footer" width="100%"/>
+</div>
 
