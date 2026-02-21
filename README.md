@@ -12,7 +12,7 @@
   ___) | (_| | | | (_| |\ V / (_| | | | | (_| |
  |____/ \__,_|_|  \__,_| \_/ \__,_|_| |_|\__,_|
                                                
-  [ SYSTEM STATUS: ONLINE ] [ LOCATION: CHENNAI, IN ]
+  [ SYSTEM STATUS: ONLINE ]
 ```
 
 <a href="https://git.io/typing-svg">
