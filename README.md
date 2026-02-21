@@ -16,7 +16,7 @@
 
  <br/>
 
- <!-- SOCIAL BADGES (Style: For-the-badge, Color: Blue/Gray) -->
+ <!-- SOCIAL BADGES -->
  <p>
   <a href="https://linkedin.com/in/saravana-priyan-s-t">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,43 +33,9 @@
 
  <br/>
 
- <!-- TROPHY CASE -->
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=ST-SARAVANAPRIYAN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
- </a>
-
- <br/>
- <br/>
-
- <!-- DASHBOARD STATS -->
- <table border="0" style="border: none; width: 100%">
-  <tr border="0">
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ST-SARAVANAPRIYAN&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" width="100%" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ST-SARAVANAPRIYAN&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
-    </td>
-  </tr>
-  <tr border="0">
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-SARAVANAPRIYAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-    </td>
-  </tr>
- </table>
-
- <br/>
-
- <!-- ACTIVITY GRAPH -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST-SARAVANAPRIYAN&bg_color=0d1117&color=0072ff&line=00c6ff&point=FFFFFF&hide_border=true" width="100%" />
-
- <br/>
- <br/>
-
  <!-- TECH STACK -->
  <h3>⚡ Tech Stack & Tools</h3>
  <div align="center">
-   <!-- Using SkillIcons with a darker/blue theme if available, otherwise standard -->
    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,rust,go&perline=10" />
    <br/>
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&perline=10" />
@@ -86,22 +52,50 @@
  <br/>
  <br/>
 
+ <!-- TROPHY CASE -->
+ <div align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+     <img src="https://github-profile-trophy.vercel.app/?username=ST-SARAVANAPRIYAN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+   </a>
+ </div>
+
+ <br/>
+ <br/>
+
+ <!-- GITHUB STATS -->
+ <h3>📊 GitHub Stats</h3>
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=ST-SARAVANAPRIYAN&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ST-SARAVANAPRIYAN&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+ </div>
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-SARAVANAPRIYAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+ </div>
+
+ <br/>
+
+ <!-- SPACE SHOOTER GAME -->
+ <h3>🚀 Space Shooter Contributions</h3>
+ <div align="center">
+   <!-- Updates daily via GitHub Actions -->
+   <img src="https://raw.githubusercontent.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/output-space-shooter/github-space-shooter.gif" alt="Space Shooter Game" width="100%" />
+ </div>
+
+ <br/>
+
  <!-- SNAKE ANIMATION -->
  <h3>🐍 Contribution Snake</h3>
- <!-- This image comes from the 'snake.yml' workflow pushing to 'output' branch. 
-      It will be broken until the first successful run of the Action. -->
- <img src="https://raw.githubusercontent.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+ <div align="center">
+   <img src="https://raw.githubusercontent.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+ </div>
 
  <br/>
- <br/>
 
- <!-- 3D METRICS -->
- <h3>📊 Detailed Analysis</h3>
- <!-- This image comes from the 'metrics.yml' workflow commiting to the repo. 
-      It will be broken until 'METRICS_TOKEN' is added and Action runs. -->
+ <!-- 3D METRICS (Optional - requires METRICS_TOKEN) -->
+ <!-- <h3>📈 Detailed Metrics</h3>
  <div align="center">
   <img src="https://raw.githubusercontent.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/main/github-metrics.svg" alt="3D Metrics" width="100%" />
- </div>
+ </div> -->
 
  <br/>
 
