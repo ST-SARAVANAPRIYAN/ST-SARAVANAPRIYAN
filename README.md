@@ -1,72 +1,98 @@
-<!--
-  <<< TERMINAL OVERRIDE: ST-SARAVANAPRIYAN >>>
-  Theme: Cyberpunk / Terminal / Obsidian
--->
-
 <div align="center">
 
-```text
-        ____                                              
- / ___|  __ _ _ __ __ ___   ____ _ _ __   __ _ 
- \___ \ / _` | '__/ _` \ \ / / _` | '_ \ / _` |
-  ___) | (_| | | | (_| |\ V / (_| | | | | (_| |
- |____/ \__,_|_|  \__,_| \_/ \__,_|_| |_|\__,_|
-                                               
-  [ SYSTEM STATUS: ONLINE ]
-```
+# Saravana Priyan S T
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00c6ff&background=00000000&center=true&vCenter=true&width=800&lines=Initializing+Environment...;Scanning+Core+Modules...;Deploying+AI+Models...;Optimizing+Infrastructure..." alt="Typing SVG" />
-</a>
+### Full-Stack Builder • Systems Thinker • AI + Infrastructure Explorer
 
----
-
-### 📂 systeminfo --brief
-> **Full Stack Architect** & **Data Scientist** with a passion for building high-performance, scalable systems. Currently exploring the intersection of AI and Infrastructure.
-
-<p align="center">
-  <a href="https://linkedin.com/in/saravana-priyan-s-t"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saravanapriyanst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ST-SARAVANAPRIYAN"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<p>
+  I design and ship products that feel fast, reliable, and intentional.
+  My sweet spot is where backend systems, developer tooling, and intelligent applications meet.
 </p>
 
----
+<p>
+  <a href="https://github.com/ST-SARAVANAPRIYAN">GitHub</a> •
+  <a href="https://linkedin.com/in/saravana-priyan-s-t">LinkedIn</a> •
+  <a href="mailto:saravanapriyanst@gmail.com">Email</a>
+</p>
 
-### 🚀 interactive --game
-**`Executing: contribution-shooter --user ST-SARAVANAPRIYAN`**
-<br/>
-<img src="https://raw.githubusercontent.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/output-space-shooter/github-space-shooter.gif" width="100%" alt="Space Shooter" />
-
----
-
-### 🛠️ loadout --list
-```yaml
-Languages: [ Java, Python, C++, Rust, Go, TypeScript ]
-Frameworks: [ Next.js, React, FastAPI, Django, PyTorch ]
-Databases: [ PostgreSQL, MongoDB, Redis, Supabase ]
-Tools: [ Docker, Kubernetes, Linux, Terraform, Vim ]
-```
-
----
-
-### 📊 analysis --verbose
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ST-SARAVANAPRIYAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=79C0FF&icon_color=00C6FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ST-SARAVANAPRIYAN&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&sideNums=79C0FF&sideLabels=79C0FF" width="48%" />
 </div>
 
-<br/>
+---
 
-**`Contribution Grid Activity:`**
-<img src="https://raw.githubusercontent.com/ST-SARAVANAPRIYAN/ST-SARAVANAPRIYAN/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
+## At a Glance
+
+| Focus | What I Enjoy Building |
+| --- | --- |
+| Product Engineering | Clean full-stack apps with strong UX and maintainable architecture |
+| AI Systems | Practical AI features, data workflows, and model-backed products |
+| Platform Work | APIs, automation, containers, cloud infra, and developer experience |
+| Performance | Fast interfaces, efficient services, and scalable backend design |
+
+## Current Direction
+
+```text
+Building software that is useful, fast, and durable.
+Interested in AI applications, distributed systems, and modern product engineering.
+Always learning, always shipping.
+```
+
+## Tech Stack
+
+| Area | Tools |
+| --- | --- |
+| Languages | Java, Python, TypeScript, Go, Rust, C++ |
+| Frontend | React, Next.js, HTML, CSS |
+| Backend | FastAPI, Django, Node.js |
+| Data | PostgreSQL, MongoDB, Redis, Supabase |
+| Infra | Docker, Kubernetes, Terraform, Linux |
+| ML / AI | PyTorch, model integration, data workflows |
+
+## What You’ll Find Here
+
+| Theme | Snapshot |
+| --- | --- |
+| Projects | Full-stack products, infrastructure experiments, and AI-driven builds |
+| Code Style | Practical, performance-aware, and built for clarity |
+| Workflow | Shipping over hype, systems over gimmicks |
+| Mindset | Learn deeply, build boldly, improve continuously |
+
+## Working Style
+
+<details>
+<summary><strong>How I like to build</strong></summary>
+
+<br />
+
+- Start with a strong foundation and keep the system simple.
+- Focus on real product value before adding complexity.
+- Treat performance, reliability, and readability as core features.
+- Use AI as a tool for leverage, not as decoration.
+
+</details>
+
+<details>
+<summary><strong>Areas I’m exploring</strong></summary>
+
+<br />
+
+- AI-powered product experiences
+- Backend architecture and distributed systems
+- Cloud-native engineering
+- Developer tooling and automation
+- Data-intensive applications
+
+</details>
+
+## Connect
+
+- GitHub: [@ST-SARAVANAPRIYAN](https://github.com/ST-SARAVANAPRIYAN)
+- LinkedIn: [saravana-priyan-s-t](https://linkedin.com/in/saravana-priyan-s-t)
+- Email: [saravanapriyanst@gmail.com](mailto:saravanapriyanst@gmail.com)
 
 ---
 
-### 📜 tail --lines 1
-```bash
-$ printf "Failure is just another bug to squash.\n"
-```
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ST-SARAVANAPRIYAN&style=flat-square&color=00C6FF&label=VISITORS" alt="visitors" />
+> Build with intent. Keep it sharp. Let the work speak.
 
 </div>
