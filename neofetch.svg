@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="850" height="280">
+  <defs>
+    <style>
+      .title { font: bold 14px 'Space Mono', 'Fira Code', monospace; fill: #6272a4; }
+      .prompt { font: bold 15px 'Space Mono', 'Fira Code', monospace; fill: #00e676; }
+      .separator { font: 15px 'Space Mono', 'Fira Code', monospace; fill: #6272a4; }
+      .key { font: bold 14px 'Space Mono', 'Fira Code', monospace; fill: #ff7a18; }
+      .val { font: 14px 'Space Mono', 'Fira Code', monospace; fill: #e6edf3; }
+      .bounty { font: bold 14px 'Space Mono', 'Fira Code', monospace; fill: #ffd166; }
+      .df { font: bold 14px 'Space Mono', 'Fira Code', monospace; fill: #00d4ff; }
+      .progress { font: 14px 'Space Mono', 'Fira Code', monospace; fill: #27c93f; }
+    </style>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Terminal window background with shadow -->
+  <rect x="15" y="15" width="820" height="250" rx="10" fill="#0b1220" stroke="#1f2937" stroke-width="1.5" filter="url(#shadow)"/>
+
+  <!-- Top bar dots -->
+  <circle cx="35" cy="35" r="6" fill="#ff5f56"/>
+  <circle cx="55" cy="35" r="6" fill="#ffbd2e"/>
+  <circle cx="75" cy="35" r="6" fill="#27c93f"/>
+  <text x="425" y="40" text-anchor="middle" class="title">saravana@mugiwara: ~</text>
+
+  <!-- Luffy Straw Hat Vector Art -->
+  <!-- Brim -->
+  <ellipse cx="140" cy="165" rx="80" ry="16" fill="#ffca28" stroke="#ff8f00" stroke-width="2"/>
+  <!-- Crown -->
+  <path d="M 85 160 C 85 90, 195 90, 195 160 Z" fill="#ffca28" stroke="#ff8f00" stroke-width="2"/>
+  <!-- Red Band -->
+  <path d="M 85 148 C 105 156, 175 156, 195 148 L 196 160 C 175 168, 105 168, 84 160 Z" fill="#ff1744"/>
+
+  <!-- Terminal text details -->
+  <text x="260" y="80" class="prompt">saravana@mugiwara</text>
+  <text x="260" y="96" class="separator">-----------------</text>
+  
+  <text x="260" y="116">
+    <tspan class="key">Type:</tspan> <tspan class="val">Full-Stack Engineer / AI Builder</tspan>
+  </text>
+  <text x="260" y="134">
+    <tspan class="key">Crew:</tspan> <tspan class="val">Straw Hat Pirates (Mugiwara)</tspan>
+  </text>
+  <text x="260" y="152">
+    <tspan class="key">Haki:</tspan> <tspan class="val">Code &amp; Systems Architecture</tspan>
+  </text>
+  <text x="260" y="170">
+    <tspan class="key">Bounty:</tspan> <tspan class="bounty">฿9,999,999,999</tspan> <tspan class="val">(in lines of code)</tspan>
+  </text>
+  <text x="260" y="188">
+    <tspan class="key">Devil Fruit:</tspan> <tspan class="df">Git-Git Fruit (Paramecia)</tspan>
+  </text>
+  <text x="260" y="206">
+    <tspan class="key">Caffeine:</tspan> <tspan class="progress">[████████████░] 92%</tspan>
+  </text>
+  <text x="260" y="224">
+    <tspan class="key">OS:</tspan> <tspan class="val">Neurodiverse-OS x86_64</tspan>
+  </text>
+  <text x="260" y="242">
+    <tspan class="key">Uptime:</tspan> <tspan class="val">24h/7d without memory leaks</tspan>
+  </text>
+</svg>
