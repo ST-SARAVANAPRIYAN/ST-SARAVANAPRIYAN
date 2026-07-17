@@ -19,14 +19,16 @@
 </div>
 
 ```text
-           /\         saravana@priyan
-          /  \        ---------------
-         /\   \       OS: Arch Linux x86_64
-        /  \   \      Shell: zsh
-       /    \   \     Role: Full-Stack Engineer / AI Builder
-      /______\___\    Focus: Systems Architecture, AI Leverage & UI Polish
-                      Weapons: Next.js, FastAPI, Docker, PyTorch
-                      Uptime: Shipping daily since 2020
+                ______        saravana@mugiwara
+              .'      '.      -----------------
+             /          \     Type: Full-Stack Engineer / AI Builder
+            |  [======]  |    Crew: Straw Hat Pirates (Mugiwara)
+            \   \____/   /    Haki: Code & Architecture
+          .-'            '-.  Bounty: ฿9,999,999,999 (in lines of code)
+         (__________________) Devil Fruit: Git-Git Fruit
+                              Caffeine: [████████████░] 92%
+                              OS: Neurodiverse-OS x86_64
+                              Uptime: 24h/7d without memory leaks
 ```
 
 ---
