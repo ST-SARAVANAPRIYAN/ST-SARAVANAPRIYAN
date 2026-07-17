@@ -25,24 +25,34 @@
   <text x="425" y="40" text-anchor="middle" class="title">saravana@mugiwara: ~</text>
 
   <!-- Luffy Jolly Roger (Straw Hat Skull & Crossbones) -->
-  <!-- Crossbones (Under the skull) -->
-  <!-- Bone 1 (Top-Left to Bottom-Right) -->
+  <!-- 1. Crossbones Black Outlines -->
+  <line x1="75" y1="100" x2="205" y2="210" stroke="#000000" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="72" cy="97" r="9.5" fill="#000000"/>
+  <circle cx="82" cy="90" r="9.5" fill="#000000"/>
+  <circle cx="198" cy="220" r="9.5" fill="#000000"/>
+  <circle cx="208" cy="213" r="9.5" fill="#000000"/>
+
+  <line x1="205" y1="100" x2="75" y2="210" stroke="#000000" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="208" cy="97" r="9.5" fill="#000000"/>
+  <circle cx="198" cy="90" r="9.5" fill="#000000"/>
+  <circle cx="82" cy="220" r="9.5" fill="#000000"/>
+  <circle cx="72" cy="213" r="9.5" fill="#000000"/>
+
+  <!-- 2. Crossbones Inner White Fill -->
   <line x1="75" y1="100" x2="205" y2="210" stroke="#e6edf3" stroke-width="10" stroke-linecap="round"/>
   <circle cx="72" cy="97" r="8" fill="#e6edf3"/>
   <circle cx="82" cy="90" r="8" fill="#e6edf3"/>
   <circle cx="198" cy="220" r="8" fill="#e6edf3"/>
   <circle cx="208" cy="213" r="8" fill="#e6edf3"/>
 
-  <!-- Bone 2 (Top-Right to Bottom-Left) -->
   <line x1="205" y1="100" x2="75" y2="210" stroke="#e6edf3" stroke-width="10" stroke-linecap="round"/>
   <circle cx="208" cy="97" r="8" fill="#e6edf3"/>
   <circle cx="198" cy="90" r="8" fill="#e6edf3"/>
   <circle cx="82" cy="220" r="8" fill="#e6edf3"/>
   <circle cx="72" cy="213" r="8" fill="#e6edf3"/>
 
-  <!-- Skull Base -->
-  <circle cx="140" cy="152" r="34" fill="#e6edf3" stroke="#000000" stroke-width="1.5"/>
-  <rect x="124" y="176" width="32" height="18" rx="3" fill="#e6edf3" stroke="#000000" stroke-width="1.5"/>
+  <!-- 3. Skull Base (Single Path to prevent outline overlap glitches) -->
+  <path d="M 140 118 A 34 34 0 0 1 174 152 C 174 165, 156 176, 156 194 L 124 194 C 124 176, 106 165, 106 152 A 34 34 0 0 1 140 118 Z" fill="#e6edf3" stroke="#000000" stroke-width="1.5"/>
   
   <!-- Teeth Lines -->
   <line x1="132" y1="176" x2="132" y2="194" stroke="#000000" stroke-width="1.5"/>
@@ -55,13 +65,13 @@
   <ellipse cx="153" cy="150" rx="8" ry="10" fill="#0b1220"/>
   <polygon points="140,158 136,166 144,166" fill="#0b1220"/>
 
-  <!-- Straw Hat (On top of skull) -->
+  <!-- Straw Hat (On top of skull, adjusted upward to prevent eye overlapping) -->
   <!-- Brim -->
-  <ellipse cx="140" cy="128" rx="68" ry="11" fill="#ffca28" stroke="#ff8f00" stroke-width="1.5"/>
+  <ellipse cx="140" cy="120" rx="68" ry="11" fill="#ffca28" stroke="#ff8f00" stroke-width="1.5"/>
   <!-- Crown -->
-  <path d="M 96 125 C 96 70, 184 70, 184 125 Z" fill="#ffca28" stroke="#ff8f00" stroke-width="1.5"/>
+  <path d="M 96 117 C 96 62, 184 62, 184 117 Z" fill="#ffca28" stroke="#ff8f00" stroke-width="1.5"/>
   <!-- Red Band -->
-  <path d="M 96 116 C 111 122, 169 122, 184 116 L 185 125 C 169 131, 111 131, 95 125 Z" fill="#ff1744"/>
+  <path d="M 96 108 C 111 114, 169 114, 184 108 L 185 117 C 169 123, 111 123, 95 117 Z" fill="#ff1744"/>
 
   <!-- Terminal text details -->
   <text x="260" y="80" class="prompt">saravana@mugiwara</text>
