@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saravana%20Priyan%20S%20T&fontAlign=50&fontAlignY=38&color=0:ff7a18,40:ffd166,75:00d4ff,100:00b4d8&fontColor=0b1220&fontSize=52&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descAlign=50&descAlignY=60" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=980&lines=Building+products+that+feel+fast+and+unforgettable;Backend+muscle+%2B+Frontend+polish+%2B+AI+leverage;Shipping+clean+architecture+at+startup+speed;Designing+for+scale%2C+clarity%2C+and+real+users" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=980&lines=Building+products+that+feel+fast+and+unforgettable;Backend+muscle+%2B+Frontend+polish+%2B+AI+leverage;Shipping+clean+architecture+at+startup+speed;Designing+for+scale%2C+clarity%2C+and+real+users" alt="typing intro" />
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=ST-SARAVANAPRIYAN&style=for-the-badge&color=ff7a18">
@@ -20,20 +20,20 @@
 
 ---
 
-## 2026 Build Manifest
+## 🛠️ The Spec Sheet (2026 Edition)
 
 <table>
   <tr>
     <td width="58%" valign="top">
 
-### What I Do
+### 💻 Code I Actually Ship
 
 - Build full-stack apps that are fast, stable, and product-driven.
 - Blend AI features into real workflows, not demo-only gimmicks.
 - Engineer backends and platforms that scale without becoming fragile.
 - Design developer experience so teams can ship faster with confidence.
 
-### What I Care About
+### 🧠 Engineering Dogmas I Swear By
 
 - Performance as a product feature.
 - Clear architecture over accidental complexity.
@@ -49,15 +49,15 @@
 
 ---
 
-## Live Dashboard
+## 📊 Telemetry & Live Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ST-SARAVANAPRIYAN&show_icons=true&theme=transparent&title_color=ff7a18&icon_color=ffd166&text_color=e6edf3&border_color=243447&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ST-SARAVANAPRIYAN&theme=transparent&ring=ff7a18&fire=ffd166&currStreakLabel=00d4ff&border=243447" alt="streak stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ST-SARAVANAPRIYAN&show_icons=true&theme=transparent&title_color=ff7a18&icon_color=ffd166&text_color=e6edf3&border_color=243447&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats-one.vercel.app/?user=ST-SARAVANAPRIYAN&theme=transparent&ring=ff7a18&fire=ffd166&currStreakLabel=00d4ff&border=243447" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-SARAVANAPRIYAN&layout=compact&theme=transparent&title_color=00d4ff&text_color=e6edf3&border_color=243447" alt="top languages" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ST-SARAVANAPRIYAN&layout=compact&theme=transparent&title_color=00d4ff&text_color=e6edf3&border_color=243447" alt="top languages" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ST-SARAVANAPRIYAN&theme=github_dark" alt="productive time" />
 </div>
 
@@ -67,7 +67,15 @@
 
 ---
 
-## Stack Focus
+## 🧰 Tech Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,fastapi,django,nodejs,postgres,redis,mongodb,supabase,docker,kubernetes,terraform,linux,pytorch" alt="My Skills" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -83,22 +91,18 @@
 
 ---
 
-## Motion Zone
+## 👾 Visual Vibe Check
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk4MnN4N2Jxa2RycTZtbTZ4YjQ5aW5zc2x4NTQ2M2M5bDNuZXJwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="70%" alt="core motion" />
 </div>
 
-<div align="center">
-  <sub>Kept only your preferred GIF for cleaner, on-brand motion.</sub>
-</div>
-
 ---
 
-## Interactive Panels
+## ⚙️ Config files & Backlogs
 
 <details>
-<summary><strong>Current Build Queue</strong></summary>
+<summary><strong>🚀 Active Build Queue</strong></summary>
 <br/>
 
 - Product-grade AI features with measurable user value.
@@ -109,7 +113,7 @@
 </details>
 
 <details>
-<summary><strong>Engineering Principles</strong></summary>
+<summary><strong>🧠 Core Engineering Dogmas</strong></summary>
 <br/>
 
 - Keep core flows simple and brutally reliable.
@@ -120,7 +124,7 @@
 </details>
 
 <details>
-<summary><strong>2026 Targets</strong></summary>
+<summary><strong>🎯 2026 Targets (The Hitlist)</strong></summary>
 <br/>
 
 - Push deeper into AI-native product architecture.
@@ -132,7 +136,7 @@
 
 ---
 
-## Connect
+## 📡 Establish Connection
 
 <div align="center">
   <a href="https://github.com/ST-SARAVANAPRIYAN">
